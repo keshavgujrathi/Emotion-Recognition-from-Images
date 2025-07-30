@@ -85,8 +85,6 @@ plt.title("Predicted Emotion: " + emotion_dict[pred])
 Example Output:
 ![Predicted Emotion Sample](sample_output.png)
 
-<img width="389" height="411" alt="sample_output" src="https://github.com/user-attachments/assets/8cc43422-5562-4bf9-9e74-ab4ef1b2ff26" />
-
 ---
 
 ## 🧪 How to Run
