@@ -92,7 +92,7 @@ Example Output:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/emotion-recognition.git
+git clone https://github.com/keshavgujrathi/emotion-recognition-from-images.git
 cd emotion-recognition
 ```
 
